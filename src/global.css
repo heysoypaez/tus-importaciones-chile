@@ -1,0 +1,36 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+
+body {
+	font-family: 'Lato', sans-serif;
+
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+
+	font-size: 36px;
+}
+
+
+.btn {
+	
+	padding: 5px 10px;
+	margin: 10px 0;
+	background-color: #57C620;
+	color: white;
+	border: 0;
+	border-bottom: 5px solid #4a9923 ;
+
+	cursor: pointer;
+	font-size: 21px;
+	text-decoration: none;
+	text-align: center;
+
+	border-radius: 5px;
+}

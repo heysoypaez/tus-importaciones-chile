@@ -1,0 +1,15 @@
+.SuccessPage {
+	display: grid;
+
+	justify-content: center;
+	align-content: center;
+
+	justify-items: center;
+	align-items: center;
+
+	height: 80vh;
+}
+
+.SuccessPage__icon {
+	width: 80px;
+}

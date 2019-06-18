@@ -1,14 +1,21 @@
 .Home {
 	background-color: #100f1c;
 	background-image: url(../../images/stars.svg);
-	height: 85vh;
+	max-height: auto;
+	min-height: 90vh;
 
 	color: white;
 
-	display: flex;
+	display: grid;
 	justify-content: space-around;
 	align-items: center;
-	flex-wrap: wrap;
+	
+	padding: 1vh 5vw;
+
+	grid-row-gap: 50px;
+
+	grid-template-columns: repeat(auto-fill, minmax(300px , 600px) )
+	
 }
 
 .Home__hero-image {

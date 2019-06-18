@@ -4,8 +4,6 @@ import airplaneLogo from "../images/airplane-globe.png"
 
 import "./styles/Home.css"
 
-import {Link} from "react-router-dom"
-
 import api from "../api.js";
 import GravatarUrl from "../components/GravatarUrl.js"
 
@@ -13,6 +11,8 @@ import LeadForm from "../components/LeadForm.js"
 
 import SuccessPage from "./SuccessPage.js"
 import PageLoading from "./PageLoading.js"
+
+const contactPhone = "https://api.whatsapp.com/send?phone=56946599356&text=quiero%20saber%20sobre%20tus%20importaciones%20chile"
 
 class Home extends Component {
 
@@ -106,9 +106,12 @@ class Home extends Component {
 					Maneja fácil <br /> los detalles <br /> de tu próxima <br /> importación
 					</h1>
 
-					<Link to="/badges" className="btn">
+					<a href={contactPhone}
+					 className="btn" 
+					 target="_blank"
+					  rel="noopener noreferrer">
 						Escribenos
-					</Link>
+					</a>
 
 				</section>
 				

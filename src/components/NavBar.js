@@ -14,8 +14,8 @@ import {Link} from "react-router-dom"
 				<Link className="NavBar-anchor" to="/">
 				<img src={logo} alt="logo" />
 					<h3 className="NavBar-title">
-				 		<span className="NavBar-title-conference"> Conference  </span>  
-				 		<span className="NavBar-title-badges"> Badges </span>
+				 		<span className="NavBar-title-conference"> Tus Importaciones  </span>  
+				 		<span className="NavBar-title-badges"> Chile </span>
 				 </h3>
 				</Link>
 

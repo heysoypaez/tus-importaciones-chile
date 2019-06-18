@@ -8,15 +8,13 @@
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
+	flex-wrap: wrap;
 }
 
-.Home__Icon-image {
-	width: 600px;
+.Home__hero-image {
+	max-width: 200px;
 }
 
-.Home .btn  {
-
-}
 
 .Home__Title {
 	margin-bottom: 5%;

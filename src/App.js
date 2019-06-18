@@ -11,7 +11,7 @@ function App(props) {
 	// body...
  
 		return (
-			<BrowserRouter>
+			<BrowserRouter basename={process.env.PUBLIC_URL}>
 				<Layout>
 				<Switch>
 

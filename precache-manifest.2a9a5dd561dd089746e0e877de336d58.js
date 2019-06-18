@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/tus-importaciones-chile/static/js/runtime~main.de481b9f.js"
   },
   {
-    "revision": "0e55bf5b32a37da2786f",
-    "url": "/tus-importaciones-chile/static/js/main.0e55bf5b.chunk.js"
+    "revision": "b47d302f436e84bdf9b5",
+    "url": "/tus-importaciones-chile/static/js/main.b47d302f.chunk.js"
   },
   {
     "revision": "c83d9973842b7c2add21",
     "url": "/tus-importaciones-chile/static/js/2.c83d9973.chunk.js"
   },
   {
-    "revision": "0e55bf5b32a37da2786f",
+    "revision": "b47d302f436e84bdf9b5",
     "url": "/tus-importaciones-chile/static/css/main.33d4ab5c.chunk.css"
   },
   {
-    "revision": "8b5ff07d0b97ea6f88c94cc6bf4fccdb",
+    "revision": "fec192a430daa1c63d63b21b9863e55c",
     "url": "/tus-importaciones-chile/index.html"
   }
 ];

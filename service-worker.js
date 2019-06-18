@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tus-importaciones-chile/precache-manifest.88d7a552e230e3560836fc20cb160805.js"
+  "/tus-importaciones-chile/precache-manifest.2a9a5dd561dd089746e0e877de336d58.js"
 );
 
 workbox.clientsClaim();

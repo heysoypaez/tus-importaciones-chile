@@ -2,7 +2,7 @@
   "name": "platzi-badges",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/tus-importaciones-chile",
+  "homepage": "https://heysoypaez.github.io/tus-importaciones-chile",
   "scripts": {
     "start": "npm-run-all -p client server",
     "client": "react-scripts start",
